@@ -1,0 +1,42 @@
+body {
+    background-color:rgb(7, 61, 9);
+  }
+  
+  .birdbody {
+    background-color: black;
+    height: 500px;
+    width: 300px;
+    margin: 200px 600px 200px 750px;
+    position:absolute;
+    border-radius: 15%;
+   
+  }
+  .triangle{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    margin: 250px 250px 250px 860px;
+    transform: rotate(45deg);
+    z-index: -1;
+
+    
+
+
+    
+  }
+  .eye{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    margin: 300px 1000px 400px 875px;
+    
+  }
+
+
+
+
+
+  
+  
